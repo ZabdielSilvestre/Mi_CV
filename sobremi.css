@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@200&family=Roboto:wght@700&display=swap');
+header{
+    text-align: center;
+    color:rgb(87, 69, 68);
+    background-color: rgb(209, 219, 120);
+}
+.sobremi{
+    background-color:beige;
+}
+li{
+    font-family: Roboto, sans-serif; 
+    list-style: none;
+    text-align: center;
+    margin-top: 1vh;
+    
+    
+}
+.volver{
+    background-color:cornsilk;
+    font-family: Roboto, sans-serif; 
+
+}

@@ -1,0 +1,124 @@
+header {
+
+    text-align: center;
+    background-image: url("fondo.jpg");
+    background-size:cover;
+    background-position: center center;
+    padding-top: 25px;
+}
+.yo{
+    text-align: center;
+}
+.menu-principal{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+}
+.datos-personales{
+    text-align: justify;
+    background-color: beige;
+    padding: 10px;
+    margin-right: 1vh;
+    
+}
+.formacion-academica{
+    text-align: justify;
+    background-color: beige;
+    padding: 10px;
+    margin-right: 1vh;
+}
+.experiencia-laboral{
+    text-align: justify;
+    background-color: beige;
+    padding: 10px;
+    margin-right: 1vh;
+}
+.sobre-mi{
+    text-align: justify;
+    background-color: beige;
+    padding: 10px;
+    margin-right: 1vh;
+}
+h1 {
+    
+    text-decoration: underline;
+    font-style:inherit;    
+    text-align: center;
+    color: #2a3e64;
+    background-color: #C4C4C4;
+    letter-spacing: 0.8rem;
+    font-size: 2.8rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.4em;
+    background-color: #C4C4C7;
+    color: #005677;
+   
+}
+#Datos-personales{
+    
+    background-color: bisque;
+}
+#formacion-academica{
+    background-color: bisque;
+}
+#Experiencia-laboral{
+    background-color: bisque;
+}
+
+p {
+text-align: center;
+    font-style: "times new roman";
+    font-weight: 400;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+.DP{
+    margin-top: 30px;
+background-color: cornsilk;
+}
+.EL{
+    background-color: cornsilk;
+}
+.FA{
+    background-color: cornsilk;
+}
+
+
+dt {
+    text-align: center;
+    display: block;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 0 0 0 13px;
+}
+dd{
+    text-align: center;
+   
+}
+
+
+footer {
+    background-color: #005677;
+    text-align: center;
+    padding: 9px;
+    
+}
+
+span {
+    color: #FFFFFF;
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+img{
+    padding: 0 0 0 20px;
+}
